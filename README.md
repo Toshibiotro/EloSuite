@@ -1,2 +1,0 @@
-# EloSuite
-The EloSuite Project
